@@ -1,0 +1,48 @@
+#login
+{
+min-height:500px;
+}
+#login form
+{
+	border: 1px solid  grey;
+	margin :0 auto;
+	margin-top:200px;
+	margin-bottom:250px;
+	padding-left:50px;
+	width:500px;
+}
+
+form div
+{
+	margin-top:30px;
+}
+
+form div span
+{
+	display:inline-block;
+	width:80px;
+	text-align:right;
+	margin-right:30px;
+}
+
+div  input[type="submit"]
+{
+	margin-bottom:30px;
+	margin-left:110px;
+	width:200px;
+}
+
+div  input[type="text"],
+div input[type="password"]
+{
+	width:200px;
+}
+
+
+form label
+{
+	margin-top:20px;
+	width:100%;
+	text-align:center;
+	margin-left:-25px;
+}
